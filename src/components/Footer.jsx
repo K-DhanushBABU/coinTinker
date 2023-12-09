@@ -31,7 +31,7 @@ const Footer = () => {
                     </Text>
                 </VStack>
 
-                <VStack w={'full'} h={'full'} alignItems={"flex-end"} display={"flex"} >
+                <VStack w={'full'} h={'full'} alignItems={["center", "flex-end"]} m={["5"]} >
                     <HStack alignItems={"center"} w>
                         <Link
                             target="_blank"
@@ -49,8 +49,8 @@ const Footer = () => {
                     </HStack>
                 </VStack>
             </Stack>
-            <Divider m={"10"}></Divider>
-            <VStack w={"full"} h={"full"}><Text>Made By Dhanush</Text>
+            <Divider m={["7", "10"]}></Divider>
+            <VStack w={"full"} h={"full"} alignItems={"center"}><Text>Made By Dhanush</Text>
                 <Text>@ Copyrigth 2023</Text></VStack>
         </Box>
     );
