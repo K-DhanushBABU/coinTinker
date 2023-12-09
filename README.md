@@ -4,6 +4,8 @@
 Description:
 This repository contains a web application built using ReactJS and Chakra UI, serving as a cryptocurrency guidance provider. The website leverages the CoinGecko API to fetch real-time data about various cryptocurrencies. It showcases dynamic data visualizations using React Chart.js to display price trends over time.
 
+Visit https://cointinker.netlify.app/
+
 Features:
 
     ReactJS & Chakra UI:  
