@@ -25,11 +25,15 @@ Technologies Used:
 sample Images :
 ![Screenshot 2023-12-09 113127](https://github.com/K-DhanushBABU/coinTinker/assets/103583233/f41e1887-3be1-46ec-ba3d-44c27fe421d6)
 
+
 ![Screenshot 2023-12-09 113256](https://github.com/K-DhanushBABU/coinTinker/assets/103583233/00fcff85-f404-4ec8-b1b2-c31066b3d4d8)
+
 
 ![Screenshot 2023-12-09 113325](https://github.com/K-DhanushBABU/coinTinker/assets/103583233/702ca09c-49b1-4e89-ab22-0b02c47cade0)
 
+
 ![Screenshot 2023-12-09 113440](https://github.com/K-DhanushBABU/coinTinker/assets/103583233/fe20c827-17fc-4adc-af70-b9ac4bb264c4)
+
 
 ![Screenshot 2023-12-09 113350](https://github.com/K-DhanushBABU/coinTinker/assets/103583233/6614b4ec-370b-4ac8-a2dd-926872704ebc)
 
