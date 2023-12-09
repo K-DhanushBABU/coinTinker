@@ -5,6 +5,7 @@ Description:
 This repository contains a web application built using ReactJS and Chakra UI, serving as a cryptocurrency guidance provider. The website leverages the CoinGecko API to fetch real-time data about various cryptocurrencies. It showcases dynamic data visualizations using React Chart.js to display price trends over time.
 
 Features:
+
     ReactJS & Chakra UI: 
     Utilizes ReactJS as the primary framework and Chakra UI for responsive and accessible UI components.
     CoinGecko API Integration: 
@@ -15,6 +16,7 @@ Features:
     Ensures the website is responsive across different devices, maintaining usability and functionality.
 
 Technologies Used:
+
     ReactJS,
     Chakra UI,
     Chart.js,
