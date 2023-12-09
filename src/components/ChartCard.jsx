@@ -28,7 +28,7 @@ const ChartCard = ({ arr = [], currency, days }) => {
     const [isLargeScreen, setIsLargeScreen] = useState(true);
 
     // Get color mode value
-    const ChartColor = useColorModeValue("teal.900", "rgba(129,230,217)");
+    const ChartColor = useColorModeValue("", "rgba(129,230,217)");
 
     useEffect(() => {
         // Check screen size on mount and resize
