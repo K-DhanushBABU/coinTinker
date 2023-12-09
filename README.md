@@ -1,0 +1,2 @@
+# coinTinker
+ CoinTinker : Crypto Guidance Provider  A React.js web application built using Chakra UI that provides comprehensive guidance and insights for cryptocurrency enthusiasts. Utilizing the GeekCo API, this platform offers real-time data, trends, and analysis for various cryptocurrencies, empowering users with valuable information for informed investment decisions in the ever-evolving world of digital currencies.
